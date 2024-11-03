@@ -4,7 +4,7 @@
 This repository contains my code solutions for [CS50-Python](https://cs50.harvard.edu/python/2022/) course.
 
 ### **Course Topics:**
-0. [Functions Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
+0. [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
 0. [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
 0. [Loops](https://cs50.harvard.edu/python/2022/weeks/2/)
 0. [Exceptions](https://cs50.harvard.edu/python/2022/weeks/3/)

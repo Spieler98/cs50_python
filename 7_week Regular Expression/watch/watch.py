@@ -1,6 +1,4 @@
 import re
-import sys
-
 
 def main():
     print(parse(input("HTML: ")))

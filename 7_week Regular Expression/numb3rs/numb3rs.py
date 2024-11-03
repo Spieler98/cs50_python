@@ -1,6 +1,4 @@
 import re
-import sys
-import random
 
 def main():
     print(validate(input("IPv4 Address: ")))

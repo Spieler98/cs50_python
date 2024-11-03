@@ -1,6 +1,6 @@
 import datetime
-import time
 import sys
+import inflect
 
 def main():
     print(date_word(date_delta_minute(get_date_user(), get_date_today())))
@@ -24,7 +24,6 @@ def date_delta_minute(date_user, date_today):
     return (date_delta_days.days * 24) * 60
 
 def date_word(minute):
-    import inflect
     p = inflect.engine()
     return f"{p.number_to_words(minute)} minutes"
 
